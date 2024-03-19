@@ -19,10 +19,5 @@
 
 ![joonyg's github stats](https://github-readme-stats.vercel.app/api?username=joonyg&show_icons=true)
 
-### BLOG
-
-![tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)
-
-https://dyblapaulo.tistory.com/
 
 </div>
